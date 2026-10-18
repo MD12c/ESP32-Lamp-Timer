@@ -1,0 +1,9 @@
+IndentWidth: 4
+BreakBeforeBraces: Allman
+AlignConsecutiveDeclarations: true
+AlignConsecutiveAssignments: true
+ColumnLimit: 0
+IndentAccessModifiers: false
+SortIncludes: Never
+Cpp11BracedListStyle: false
+AllowShortFunctionsOnASingleLine: All
